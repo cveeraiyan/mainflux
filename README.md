@@ -1,4 +1,4 @@
-# Mainflux 1.0
+# Mainflux
 
 [![build][ci-badge]][ci-url]
 [![go report card][grc-badge]][grc-url]
