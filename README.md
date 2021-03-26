@@ -1,4 +1,4 @@
-# Mainflux
+# Mainflux 1.0
 
 [![build][ci-badge]][ci-url]
 [![go report card][grc-badge]][grc-url]
@@ -78,7 +78,7 @@ Check that `.env` file contains:
 MF_RELEASE_TAG=<release_number>
 ```
 
->`docker-compose` should be used for development and testing deployments. For production we suggest using [Kubernetes](https://mainflux.readthedocs.io/en/latest/kubernetes/).
+> `docker-compose` should be used for development and testing deployments. For production we suggest using [Kubernetes](https://mainflux.readthedocs.io/en/latest/kubernetes/).
 
 ## Usage
 
@@ -132,7 +132,7 @@ Thank you for your interest in Mainflux and the desire to contribute!
 If you are interested in working professionally on Mainflux,
 please head to company's [careers page][careers] or shoot us an e-mail at <careers@mainflux.com>.
 
->The best way to grab our attention is by sending PRs :sunglasses:.
+> The best way to grab our attention is by sending PRs :sunglasses:.
 
 ## Community
 
